@@ -1,2 +1,5 @@
-# roserver
-files for roserver
+# Roserver Storage
+## Files for Roserver
+## Created by unixetp
+
+## https://discord.gg/DmBxxaPEtN
