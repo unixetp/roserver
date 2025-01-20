@@ -1,1 +1,16 @@
-
+[
+  {
+    "ServerName": "Первый сервер",
+    "GameName": "Minecraft",
+    "ImagePath": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/Vanilla-PMP_Collection-Carousel-0_Buzzy-Bees_1280x768.jpg",
+    "IP": "127.0.0.1",
+    "Port": 25565
+  },
+  {
+    "ServerName": "Второй сервер",
+    "GameName": "CS:GO",
+    "ImagePath": "https://www.22esport.gg/wp-content/uploads/2023/12/fb_image.png",
+    "IP": "192.168.1.1",
+    "Port": 27015
+  }
+]
